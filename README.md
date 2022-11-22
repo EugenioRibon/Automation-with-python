@@ -1,3 +1,3 @@
 # Automation-with-python
 
-These are some simple codes for automating processes using python
+I am currently working on automating processes related with web scraping
